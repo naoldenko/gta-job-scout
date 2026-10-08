@@ -1,0 +1,23 @@
+{
+  "titles": [
+    "Engineer",
+    "Process Engineer",
+    "Research Assistant",
+    "Research and Development Engineer",
+    "Chemical Engineer"
+  ],
+  "locations": [
+    "Toronto, ON",
+    "Greater Toronto Area, Canada"
+  ],
+  "employment_types": [
+    "Full-time",
+    "Contract"
+  ],
+  "work_modes": [
+    "On-site",
+    "Hybrid"
+  ],
+  "max_days_old": 7,
+  "notification_email": ""
+}
