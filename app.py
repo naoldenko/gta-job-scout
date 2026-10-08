@@ -68,10 +68,6 @@ st.markdown(
         <div class="label">Work mode</div>
         <div class="value">On-site / Hybrid</div>
       </article>
-      <article class="stat-card">
-        <div class="label">Search cadence</div>
-        <div class="value">Daily</div>
-      </article>
     </div>
     """,
     unsafe_allow_html=True,
@@ -136,11 +132,6 @@ st.markdown(
       </article>
       <article class="how-card">
         <div class="num">03</div>
-        <h3>Track what’s new</h3>
-        <p>Deduplicates listings so daily runs notify only about jobs you have not seen yet.</p>
-      </article>
-      <article class="how-card">
-        <div class="num">04</div>
         <h3>You decide</h3>
         <p>Does not apply automatically. Review each listing on the employer’s page before applying.</p>
       </article>
